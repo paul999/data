@@ -1,0 +1,11 @@
+Updaten van bestanden als iemand wat heeft gewijzigt:
+git pull origin master
+
+Toevoegen van wijzigingen:
+git add .
+git commit
+git push
+Voeg in de editor bij git commit de uitleg van de wijziging toe
+
+
+
